@@ -22,7 +22,7 @@ Snowflake, SQL Server, Tableau
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/3rd_party.gif)
 
-- [Dashboard link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/3rd%20Party%20Data%20Management.pbix)
+-Dashboard completo -> [link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/3rd%20Party%20Data%20Management.pbix)
 
 ### Sam's Club Dashboard
 
