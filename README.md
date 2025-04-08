@@ -20,8 +20,8 @@ Snowflake, SQL Server, Tableau
 
 
 
-### 3rd Party Data Management Dashboard
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Circle.png" alt="Black Circle" width="25" />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Circle.png" alt="Black Circle" width="20" />  3rd Party Data Management Dashboard
+
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/3rd_party.gif)
 
