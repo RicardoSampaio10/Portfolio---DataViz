@@ -1,6 +1,7 @@
 # Portfolio DataViz 📊
 
-## Ricardo Sampaio
+
+# Ricardo Sampaio
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="35" />ricamaralsamp@hotmail.com
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="35">linkedin.com/in/ricardo-sampaio-42436117
 
