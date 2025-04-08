@@ -13,5 +13,7 @@ Airflow, Alteryx, Alteryx Server, Business Intelligence, Data Analytics, DataViz
 Dashboards, Matillion ETL, Microsoft SQL Server, Power BI, Python, Qlik Sense, ServiceNow,
 Snowflake, SQL Server, Tableau
 
-(https://i.imgur.com/a/x74vv5G)
+### Dashboard Financeiro
+
+![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/a/x74vv5G)
 
