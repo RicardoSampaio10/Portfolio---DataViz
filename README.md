@@ -13,11 +13,8 @@ Airflow, Alteryx, Alteryx Server, Business Intelligence, Data Analytics, DataViz
 Dashboards, Matillion ETL, Microsoft SQL Server, Power BI, Python, Qlik Sense, ServiceNow,
 Snowflake, SQL Server, Tableau
 
-### Dashboard Financeiro
+## All data used are fictitious
 
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://imgur.com/Nl5Hurs.gif)
+### 3rd Party Data Management Dashboard
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/ezgif.com-video-to-gif-converter.gif)
-
-
-### Dashboard Financeiro
