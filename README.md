@@ -15,22 +15,4 @@ Snowflake, SQL Server, Tableau
 
 ### Dashboard Financeiro
 
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/Nl5Hurs.gif)
-
-![teste](https://i.imgur.com/Nl5Hurs.gif)
-
-![aqui](https://imgur.com/Nl5Hurs)
-
-(https://www.loom.com/share/be397d85f4ea42e791782f7227cd2a62?sid=f59343e1-fa80-4d43-8416-143cba856f7c)
-
-https://www.loom.com/share/be397d85f4ea42e791782f7227cd2a62?sid=f59343e1-fa80-4d43-8416-143cba856f7c
-
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://www.loom.com/share/be397d85f4ea42e791782f7227cd2a62?sid=f59343e1-fa80-4d43-8416-143cba856f7c)
-
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://www.loom.com/share/be397d85f4ea42e791782f7227cd2a62?sid=f59343e1-fa80-4d43-8416-143cba856f7c.gif)
-
-Acesse o dashboard completo [neste link](https://www.loom.com/share/be397d85f4ea42e791782f7227cd2a62?sid=14ee368c-3276-4221-a34d-fa5403f7d7a2)
-
-
-### Dashboard Financeiro
-
+![Gif que exemplifica o funcionando do Dashboard Financeiro](https://imgur.com/Nl5Hurs.gif)
