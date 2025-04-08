@@ -23,4 +23,17 @@ Snowflake, SQL Server, Tableau
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/Sam's_Club.gif)
 
-- [Dashboard link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/3rd%20Party%20Data%20Management.pbix)
+- [Dashboard link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Sam's%20Club.pbix)
+
+### Le Creuset Dashboard
+
+![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/le_creuset.gif)
+
+- [Dashboard link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/LE_CREUSET_2.pbix)
+
+### Price User Dashboard
+
+![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/price_user.gif)
+
+- [Dashboard link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Price%20User%20Dashboard.pbix)
+
