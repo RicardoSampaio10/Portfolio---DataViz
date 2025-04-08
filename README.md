@@ -16,7 +16,9 @@ Airflow, Alteryx, Alteryx Server, Business Intelligence, Data Analytics, DataViz
 Dashboards, Matillion ETL, Microsoft SQL Server, Power BI, Python, Qlik Sense, ServiceNow,
 Snowflake, SQL Server, Tableau
 
-## All data used are fictitious
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Triangle%20Pointed%20Up.png" alt="Red Triangle Pointed Up" width="25" /> All data used are fictitious
+
+
 
 ### 3rd Party Data Management Dashboard
 
