@@ -1,7 +1,7 @@
 # Portfolio DataViz 📊
 
 ## Ricardo Sampaio | ricamaralsamp@hotmail.com | linkedin.com/in/ricardo-sampaio-42436117
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 
 Graduated in Information Systems, working with Data Analytics, Data Analysis/Management
 for more than ten years. Passionate data analytics expert with experience across the entire
