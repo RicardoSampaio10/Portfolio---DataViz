@@ -13,9 +13,5 @@ Airflow, Alteryx, Alteryx Server, Business Intelligence, Data Analytics, DataViz
 Dashboards, Matillion ETL, Microsoft SQL Server, Power BI, Python, Qlik Sense, ServiceNow,
 Snowflake, SQL Server, Tableau
 
-EDUCATION
-Student Exchange Program
-SELC - English School Vancouver• 08/2015 - 12/2015
-Bachelor's degree in Information Technology
-Universidade Presbiteriana Mackenzie • 01/2008 - 12/2012
+(https://imgur.com/a/x74vv5G)
 
