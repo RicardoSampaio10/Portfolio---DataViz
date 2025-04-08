@@ -1,4 +1,5 @@
-# Portfolio---DataViz
+# Portfolio DataViz 📊
+
 ## Ricardo Sampaio | ricamaralsamp@hotmail.com | linkedin.com/in/ricardo-sampaio-42436117
 
 Graduated in Information Systems, working with Data Analytics, Data Analysis/Management
