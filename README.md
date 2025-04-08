@@ -13,5 +13,5 @@ Airflow, Alteryx, Alteryx Server, Business Intelligence, Data Analytics, DataViz
 Dashboards, Matillion ETL, Microsoft SQL Server, Power BI, Python, Qlik Sense, ServiceNow,
 Snowflake, SQL Server, Tableau
 
-(https://imgur.com/a/x74vv5G)
+(https://i.imgur.com/a/x74vv5G)
 
