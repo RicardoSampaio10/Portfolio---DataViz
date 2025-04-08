@@ -17,7 +17,7 @@ Snowflake, SQL Server, Tableau
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/Nl5Hurs.gif)
 
-!(https://i.imgur.com/Nl5Hurs.gif)
+![teste](https://i.imgur.com/Nl5Hurs.gif)
 
 !(https://imgur.com/Nl5Hurs)
 
