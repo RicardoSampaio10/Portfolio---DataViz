@@ -20,28 +20,31 @@ Snowflake, SQL Server, Tableau
 
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Circle.png" alt="Black Circle" width="20" />  3rd Party Data Management Dashboard
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Circle.png" alt="Black Circle" width="15" />  3rd Party Data Management Dashboard
 
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/3rd_party.gif)
 
-Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/3rd%20Party%20Data%20Management.pbix)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Minus.png" alt="Minus" width="10" />  Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/3rd%20Party%20Data%20Management.pbix)
 
-### Sam's Club Dashboard
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Circle.png" alt="Black Circle" width="15" />  Sam's Club Dashboard
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/Sam's_Club.gif)
 
-Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Sam's%20Club.pbix)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Minus.png" alt="Minus" width="10" />  Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Sam's%20Club.pbix)
 
-### Le Creuset Dashboard
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Circle.png" alt="Black Circle" width="15" />  Le Creuset Dashboard
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/le_creuset.gif)
 
-Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/LE_CREUSET_2.pbix)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Minus.png" alt="Minus" width="10" />  Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/LE_CREUSET_2.pbix)
 
-### Price User Dashboard
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Circle.png" alt="Black Circle" width="15" />  Price User Dashboard
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Gifs/price_user.gif)
 
-Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Price%20User%20Dashboard.pbix)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Minus.png" alt="Minus" width="10" />  Full Dashboard -> [Link](https://github.com/RicardoSampaio10/Portfolio---DataViz/blob/main/Dashboards/Price%20User%20Dashboard.pbix)
 
