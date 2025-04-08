@@ -19,7 +19,7 @@ Snowflake, SQL Server, Tableau
 
 ![teste](https://i.imgur.com/Nl5Hurs.gif)
 
-!(https://imgur.com/Nl5Hurs)
+![aqui](https://imgur.com/Nl5Hurs)
 
 (https://www.loom.com/share/be397d85f4ea42e791782f7227cd2a62?sid=f59343e1-fa80-4d43-8416-143cba856f7c)
 
